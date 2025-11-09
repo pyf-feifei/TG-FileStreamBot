@@ -8,8 +8,8 @@
 
 ### 一个为您的 Telegram 文件**生成直链**的 Telegram 机器人，支持 **HTTP 上传 API**。
 
-[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README.md)
 [![中文](https://img.shields.io/badge/语言-简体中文-red?style=for-the-badge)](README.zh-CN.md)
+[![English](https://img.shields.io/badge/Language-English-lightgrey?style=for-the-badge)](README.md)
 
 </div>
 
